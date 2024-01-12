@@ -1,2 +1,2 @@
-# github_tutorial
-깃허브 튜토리얼
+# Code Practice
+인공지능 모델 연습하기 위한 공간입니다.
